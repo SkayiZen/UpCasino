@@ -1,0 +1,3 @@
+name: UPCasino
+version: '${project.version}'
+main: xyz.ultrapixelmon.pepefab.upcasino.Main

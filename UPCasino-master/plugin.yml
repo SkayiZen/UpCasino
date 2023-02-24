@@ -1,0 +1,7 @@
+name: UPCasino
+main: xyz.ultrapixelmon.pepefab.upcasino.Main
+author: Pepefab
+depend: [CMI]
+loadafter: [CMI]
+version: 1.0
+description: Plugin casino pour le serveur Ultra-Pixelmon.xyz
